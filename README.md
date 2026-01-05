@@ -8,7 +8,7 @@ A modern React-based face detection application that identifies human faces from
 
 ## 🌐 Live Demo
 
-🔗 https://facevue-8c.netlify.app/
+🔗 https://facevue.netlify.app/
 
 ---
 
