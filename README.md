@@ -8,7 +8,7 @@ A modern React-based face detection application that identifies human faces from
 
 ## 🌐 Live Demo
 
-🔗 https://facevue.netlify.app/
+🔗 https://facevue.netlify.app
 
 ---
 
@@ -69,6 +69,6 @@ npm start
 **Mr. Guddu Kumar**  
 Frontend / React Developer
 
-🌐 Portfolio: https://guddudev.netlify.app
+🌐 Portfolio: https://krguddu.netlify.app
 
 🐙 GitHub: https://github.com/KrGuddu
